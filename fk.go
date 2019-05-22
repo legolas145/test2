@@ -7,5 +7,4 @@ func main() {
 	fmt.Println("I also had a burger")
 	fmt.Println("I also had a chicken wing")
 	fmt.Println("Eggs")
-	fmt.Println("error da")
 }
